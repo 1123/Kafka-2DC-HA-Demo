@@ -1,0 +1,10 @@
+zk1.properties.dynamic.next
+zk2.properties.dynamic.next
+zk3.properties.dynamic.next
+zk4.properties.dynamic.next
+zk5.properties.dynamic.next
+zk6.properties.dynamic.next
+
+zk1-degraded.properties.dynamic.next
+zk2-degraded.properties.dynamic.next
+zk3-degraded.properties.dynamic.next
